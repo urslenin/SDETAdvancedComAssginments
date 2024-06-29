@@ -1,10 +1,11 @@
 pipeline {
     agent any
+    
      stages {
         stage('Test') {
             steps {
- 
-                dir('C:/Users/meera/.jenkins/workspace/SDET_Advanced_Assignments/SDET_Advanced_AssignmentsBDD/') {
+                echo ${WORKSPACE}
+                dir('${WORKSPACE}/SDET_Advanced_AssignmentsBDD/') {
                      bat "mvn -D clean test"
                 }
                
