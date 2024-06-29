@@ -1,11 +1,15 @@
 pipeline {
     agent any
-    
+   
      stages {
         stage('Test') {
             steps {
-               echo "${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"
-                dir('${WORKSPACE}/SDET_Advanced_AssignmentsBDD/') {
+                    script {
+                    workspace = ${WORKSPACE}
+                    echo "workspace: ${workspace}"
+                    // will show 123
+                }
+                dir('${workspace}/SDET_Advanced_AssignmentsBDD/') {
                      bat "mvn -D clean test"
                 }
                
