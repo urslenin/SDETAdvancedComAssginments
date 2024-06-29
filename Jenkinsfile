@@ -1,30 +1,31 @@
+
 pipeline {
     agent any
- 
-    stages {
-        stage('Test') {
+
+     stages {
+        stage('BDD Execution') {
             steps {
- 
-                // To run Maven on a Windows agent, use
-                bat "mvn -D clean test"
-            }
- 
+                 dir("${env.WORKSPACE}/SDET_Advanced_AssignmentsBDD"){
+                 bat "mvn -D clean test"
+                }
+              } 
+        }
+        stage('RestAssured Execution') {
+            steps {
+                 dir("${env.WORKSPACE}/SDET_Advanced_AssignmentsRestAssured"){
+                 bat "mvn -D clean test"
+                }
+              }
+        }
+        stage('TestNG Execution') {
+            steps {
+                 dir("${env.WORKSPACE}/SDET_Advanced_AssginmentsTestNG"){
+                 bat "mvn -D clean test"
+                }
+              } 
             post {
-                 
-                // If Maven was able to run the tests, even if some of the test
-                // failed, record the test results and archive the jar file.
-                success {
-                        cucumber buildStatus: 'null', 
-                        customCssFiles: '', 
-                        customJsFiles: '', 
-                        failedFeaturesNumber: -1, 
-                        failedScenariosNumber: -1, 
-                        failedStepsNumber: -1, 
-                        fileIncludePattern: '**/*.json', 
-                        pendingStepsNumber: -1, 
-                        skippedStepsNumber: -1, 
-                        sortingMethod: 'ALPHABETICAL', 
-                        undefinedStepsNumber: -1
+              success{
+                 echo "Test Success"
                 }
             }
         }
