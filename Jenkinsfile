@@ -1,22 +1,14 @@
-
 pipeline {
     agent any
-   
+
      stages {
         stage('Test') {
             steps {
-                  
-                    script {
-                        echo 'Entering Stage - Nexus Upload'
-                        def artefactPath = "${WORKSPACE}\SDET_Advanced_AssignmentsBDD\"   
-                        echo "printing the path ${artefactPath}"
-                    }
-                        
-                    dir('${artefactPath}'){
+                echo "${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"
+                dir('C:/Users/meera/.jenkins/workspace/SDET_Advanced_Assignments/SDET_Advanced_AssignmentsBDD/') {
                     bat "mvn -D clean test"
-                    }
-                    
-               
+                }
+
             }
  
             post {
