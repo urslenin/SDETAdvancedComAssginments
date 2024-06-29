@@ -1,11 +1,10 @@
 pipeline {
     agent any
-     def reportPath = "${WORKSPACE}/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/"
-    stages {
+     stages {
         stage('Test') {
             steps {
  
-                dir(reportPath) {
+                dir('${WORKSPACE}/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/') {
                      bat "mvn -D clean test"
                 }
                
