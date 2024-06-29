@@ -7,11 +7,11 @@ pipeline {
                   
                     script {
     echo 'Entering Stage - Nexus Upload'
-    def artefactPath = "${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"   
+    def artefactPath = "${WORKSPACE}\SDET_Advanced_AssignmentsBDD\"   
     echo "printing the path ${artefactPath}"
 
                 }
-               sh  "${artefactPath}"
+             dir('${artefactPath}'){
                      bat "mvn -D clean test"
                 
                
