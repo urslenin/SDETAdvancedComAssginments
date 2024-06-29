@@ -8,8 +8,6 @@ pipeline {
                 bat "mvn -D clean test"
                 }
             }
-
-            }
  
             post {
                  
