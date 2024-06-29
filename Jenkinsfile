@@ -3,11 +3,14 @@ pipeline {
 
      stages {
         stage('Test') {
-            steps {
-                 env.testvariable = "${WORKSPACE}\SDET_Advanced_AssignmentsBDD\"
-                dir('${env.testvariable') {
+            steps {script{
+                sh 'pwd > workspace'
+                workspace = readFile('workspace').trim()
+            
+                dir('workspace') {
                     bat "mvn -D clean test"
                 }
+            }
 
             }
  
