@@ -7,7 +7,7 @@ pipeline {
                 sh 'cd SDET_Advanced_AssignmentsRestAssured'
                 bat "mvn -D clean test"
                 }
-            }
+            
  
             post {
                  
