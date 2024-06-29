@@ -4,13 +4,14 @@ pipeline {
      stages {
         stage('Test') {
             steps {
-                script{
-                    bat 'cd "SDET_Advanced_AssignmentsRestAssured"'
-                }
+                sh "pwd"
+                dir('SDET_Advanced_AssignmentsBDD') {
+                sh "pwd"
                 bat "mvn -D clean test"
                 }
+   
+            } 
             
- 
             post {
                  
                 // If Maven was able to run the tests, even if some of the test
