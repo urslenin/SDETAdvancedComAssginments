@@ -1,3 +1,4 @@
+
 pipeline {
     agent any
    
@@ -6,14 +7,15 @@ pipeline {
             steps {
                   
                     script {
-    echo 'Entering Stage - Nexus Upload'
-    def artefactPath = "${WORKSPACE}\SDET_Advanced_AssignmentsBDD\"   
-    echo "printing the path ${artefactPath}"
-
-                }
-             dir('${artefactPath}'){
-                     bat "mvn -D clean test"
-                
+                        echo 'Entering Stage - Nexus Upload'
+                        def artefactPath = "${WORKSPACE}\SDET_Advanced_AssignmentsBDD\"   
+                        echo "printing the path ${artefactPath}"
+                    }
+                        
+                    dir('${artefactPath}'){
+                    bat "mvn -D clean test"
+                    }
+                    
                
             }
  
