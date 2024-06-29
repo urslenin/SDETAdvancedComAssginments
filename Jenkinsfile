@@ -5,7 +5,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo "${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"
-                dir('C:/Users/meera/.jenkins/workspace/SDET_Advanced_Assignments/SDET_Advanced_AssignmentsBDD/') {
+                dir('${WORKSPACE}/SDET_Advanced_AssignmentsBDD/') {
                     bat "mvn -D clean test"
                 }
 
