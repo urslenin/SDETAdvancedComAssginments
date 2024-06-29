@@ -4,12 +4,14 @@ pipeline {
      stages {
         stage('Test') {
             steps {
+                  
                     script {
-                    workspace = ${WORKSPACE}
-                    echo "workspace: ${workspace}"
-                    // will show 123
+    echo 'Entering Stage - Nexus Upload'
+    def artefactPath = "${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"   
+    echo "printing the path ${artefactPath}"
+
                 }
-                dir('${workspace}/SDET_Advanced_AssignmentsBDD/') {
+                dir('${artefactPath}') {
                      bat "mvn -D clean test"
                 }
                
