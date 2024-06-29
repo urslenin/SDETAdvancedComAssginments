@@ -1,0 +1,325 @@
+2024-06-29 10:29:45,749  INFO [main] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:29:48,421  INFO [main] CommonFunctions:80 - Response Code as expected200
+ 2024-06-29 10:29:48,422  INFO [main] UserUpdate:31 - User Exist
+ 2024-06-29 10:29:49,317  INFO [main] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 10:29:49,317  INFO [main] CommonFunctions:56 - IDas expected
+ 2024-06-29 10:29:49,319  INFO [main] CommonFunctions:64 - Emailas expected
+ 2024-06-29 10:29:49,322  INFO [main] CommonFunctions:64 - FirstNameas expected
+ 2024-06-29 10:29:49,322  INFO [main] CommonFunctions:64 - LastNameas expected
+ 2024-06-29 10:29:49,323  INFO [main] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 10:29:49,324  INFO [main] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:29:49,355  INFO [main] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 10:29:49,362  INFO [main] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:29:49,803  INFO [main] CommonFunctions:80 - Response Code as expected200
+ 2024-06-29 10:29:49,804  INFO [main] UserUpdate:31 - User Exist
+ 2024-06-29 10:29:49,843  INFO [main] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T04:59:49.712Z
+
+ 2024-06-29 10:29:49,844  INFO [main] CommonFunctions:64 - Nameas expected
+ 2024-06-29 10:29:49,845  INFO [main] CommonFunctions:64 - Jobas expected
+ 2024-06-29 10:29:49,845  INFO [main] CommonFunctions:72 - UpdatedAtvalue: 2024-06-29T04:59:49.712Zas expected
+ 2024-06-29 10:29:49,845  INFO [main] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 10:29:49,846  INFO [main] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:31:24,690  INFO [main] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:31:26,988  INFO [main] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:31:26,988  INFO [main] UserUpdate:31 - User Exist
+ 2024-06-29 10:31:27,960  INFO [main] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 10:31:27,963  INFO [main] CommonFunctions:55 - IDas expected
+ 2024-06-29 10:31:27,968  INFO [main] CommonFunctions:63 - Emailas expected
+ 2024-06-29 10:31:27,971  INFO [main] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 10:31:27,971  INFO [main] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 10:31:27,972  INFO [main] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 10:31:27,974  INFO [main] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:31:28,029  INFO [main] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 10:31:28,037  INFO [main] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:31:28,491  INFO [main] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:31:28,492  INFO [main] UserUpdate:31 - User Exist
+ 2024-06-29 10:31:28,569  INFO [main] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:01:28.400Z
+
+ 2024-06-29 10:31:28,570  INFO [main] CommonFunctions:63 - Nameas expected
+ 2024-06-29 10:31:28,571  INFO [main] CommonFunctions:63 - Jobas expected
+ 2024-06-29 10:31:28,571  INFO [main] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:01:28.400Zas expected
+ 2024-06-29 10:31:28,572  INFO [main] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 10:31:28,572  INFO [main] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:32:08,178  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:32:10,792  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:32:10,792  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 10:32:11,785  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 10:32:11,786  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 10:32:11,787  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 10:32:11,788  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 10:32:11,788  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 10:32:11,789  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 10:32:11,793  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:32:11,821  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 10:32:11,829  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:32:12,313  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:32:12,314  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 10:32:12,361  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:02:12.219Z
+
+ 2024-06-29 10:32:12,361  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 10:32:12,363  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 10:32:12,363  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:02:12.219Zas expected
+ 2024-06-29 10:32:12,364  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 10:32:12,364  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:32:41,882  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:32:44,918  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:32:44,919  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 10:32:46,037  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 10:32:46,039  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 10:32:46,039  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 10:32:46,043  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 10:32:46,044  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 10:32:46,046  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 10:32:46,049  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:32:46,108  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 10:32:46,125  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:32:46,612  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:32:46,612  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 10:32:46,690  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:02:46.510Z
+
+ 2024-06-29 10:32:46,690  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 10:32:46,692  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 10:32:46,693  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:02:46.510Zas expected
+ 2024-06-29 10:32:46,694  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 10:32:46,695  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:33:32,727  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:33:35,902  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:33:35,903  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 10:33:36,854  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 10:33:36,856  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 10:33:36,856  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 10:33:36,857  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 10:33:36,860  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 10:33:36,860  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 10:33:36,861  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 10:33:36,893  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 10:33:36,900  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 10:33:37,344  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 10:33:37,344  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 10:33:37,394  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:03:37.256Z
+
+ 2024-06-29 10:33:37,395  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 10:33:37,396  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 10:33:37,396  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:03:37.256Zas expected
+ 2024-06-29 10:33:37,396  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 10:33:37,397  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:02:18,512  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:02:21,721  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:02:21,722  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:02:22,710  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:02:22,710  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:02:22,712  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:02:22,713  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:02:22,713  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:02:22,714  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:02:22,715  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:02:22,764  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:02:22,772  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:02:23,214  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:02:23,215  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:02:23,275  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:32:23.125Z
+
+ 2024-06-29 11:02:23,275  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:02:23,276  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:02:23,277  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:32:23.125Zas expected
+ 2024-06-29 11:02:23,277  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:02:23,279  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:17:06,216  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:17:11,233  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:17:11,234  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:17:12,948  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:17:12,949  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:17:12,950  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:17:12,952  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:17:12,954  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:17:12,956  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:17:12,958  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:17:13,004  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:17:13,014  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:17:13,486  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:17:13,487  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:17:13,551  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:47:13.390Z
+
+ 2024-06-29 11:17:13,551  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:17:13,553  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:17:13,554  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:47:13.390Zas expected
+ 2024-06-29 11:17:13,555  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:17:13,560  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:18:21,077  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:18:28,455  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:18:28,457  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:18:30,087  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:18:30,089  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:18:30,089  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:18:30,090  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:18:30,090  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:18:30,091  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:18:30,098  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:18:30,206  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:18:30,234  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:18:30,873  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:18:30,873  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:18:30,943  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:48:30.758Z
+
+ 2024-06-29 11:18:30,943  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:18:30,948  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:18:30,949  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:48:30.758Zas expected
+ 2024-06-29 11:18:30,950  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:18:30,953  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:25:11,508  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:25:13,994  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:25:13,994  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:25:14,900  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:25:14,900  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:25:14,901  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:25:14,902  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:25:14,902  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:25:14,903  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:25:14,904  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:25:14,939  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:25:14,946  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:25:15,391  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:25:15,391  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:25:15,464  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T05:55:15.296Z
+
+ 2024-06-29 11:25:15,464  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:25:15,466  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:25:15,467  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T05:55:15.296Zas expected
+ 2024-06-29 11:25:15,468  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:25:15,470  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:43:45,227  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:43:48,447  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:43:48,450  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:43:50,320  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:43:50,321  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:43:50,321  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:43:50,322  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:43:50,322  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:43:50,323  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:43:50,324  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:43:50,365  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:43:50,374  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:43:50,844  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:43:50,845  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:43:50,928  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T06:13:50.749Z
+
+ 2024-06-29 11:43:50,928  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:43:50,931  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:43:50,931  INFO [TestNG-test=Resgres_UpdateUser-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T06:13:50.749Zas expected
+ 2024-06-29 11:43:50,932  INFO [TestNG-test=Resgres_UpdateUser-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:43:50,933  INFO [TestNG-test=Resgres_UpdateUser-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:51:25,439  INFO [pool-2-thread-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:51:28,074  INFO [pool-2-thread-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:51:28,075  INFO [pool-2-thread-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:51:29,033  INFO [pool-2-thread-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:51:29,034  INFO [pool-2-thread-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:51:29,034  INFO [pool-2-thread-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:51:29,034  INFO [pool-2-thread-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:51:29,035  INFO [pool-2-thread-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:51:29,035  INFO [pool-2-thread-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:51:29,036  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:51:29,116  INFO [pool-2-thread-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:51:29,131  INFO [pool-2-thread-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:51:29,635  INFO [pool-2-thread-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:51:29,636  INFO [pool-2-thread-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:51:29,686  INFO [pool-2-thread-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T06:21:29.512Z
+
+ 2024-06-29 11:51:29,686  INFO [pool-2-thread-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:51:29,688  INFO [pool-2-thread-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:51:29,688  INFO [pool-2-thread-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T06:21:29.512Zas expected
+ 2024-06-29 11:51:29,688  INFO [pool-2-thread-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:51:29,689  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:54:08,035  INFO [pool-2-thread-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:54:17,555  INFO [pool-2-thread-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:54:17,558  INFO [pool-2-thread-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:54:21,046  INFO [pool-2-thread-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 11:54:21,046  INFO [pool-2-thread-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 11:54:21,047  INFO [pool-2-thread-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 11:54:21,047  INFO [pool-2-thread-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 11:54:21,047  INFO [pool-2-thread-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 11:54:21,048  INFO [pool-2-thread-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 11:54:21,051  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 11:54:21,277  INFO [pool-2-thread-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 11:54:21,316  INFO [pool-2-thread-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 11:54:21,982  INFO [pool-2-thread-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 11:54:21,983  INFO [pool-2-thread-1] UserUpdate:31 - User Exist
+ 2024-06-29 11:54:22,037  INFO [pool-2-thread-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T06:24:21.866Z
+
+ 2024-06-29 11:54:22,038  INFO [pool-2-thread-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 11:54:22,043  INFO [pool-2-thread-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 11:54:22,045  INFO [pool-2-thread-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T06:24:21.866Zas expected
+ 2024-06-29 11:54:22,045  INFO [pool-2-thread-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 11:54:22,047  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
+ 

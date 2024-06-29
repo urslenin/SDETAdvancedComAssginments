@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testsuite" verbose="1" >
+
+    <test name ="Resgres_UpdateUser" parallel="classes" thread-count="2">
+        <parameter name="name" value="value" />
+
+        <classes>
+            <class name = "runner.TestRunner" > </class>
+
+        </classes>
+
+    </test>
+</suite>
