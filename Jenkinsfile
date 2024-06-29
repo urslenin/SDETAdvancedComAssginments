@@ -11,9 +11,9 @@ pipeline {
     echo "printing the path ${artefactPath}"
 
                 }
-                dir('${artefactPath}') {
+               sh  ${artefactPath}
                      bat "mvn -D clean test"
-                }
+                
                
             }
  
