@@ -4,7 +4,7 @@ pipeline {
      stages {
         stage('Test') {
             steps {
-                bat 'cd SDET_Advanced_AssignmentsRestAssured'
+                sh 'cd SDET_Advanced_AssignmentsRestAssured'
                 bat "mvn -D clean test"
                 }
             
