@@ -1,11 +1,15 @@
+def workspace
 pipeline {
     agent any
 
      stages {
         stage('Test') {
             steps {
+                script{
+                    workspace = ${WORKSPACE}/SDET_Advanced_AssignmentsBDD
+                }
                         
-                dir('/SDET_Advanced_AssignmentsBDD') {
+                dir('{workspace}') {
                  bat "mvn -D clean test"
                 }
    
