@@ -6,10 +6,10 @@ pipeline {
         stage('Test') {
             steps {
                 script{
-                    workspace = "${WORKSPACE}/SDET_Advanced_AssignmentsBDD"
+                    workspace = ${WORKSPACE} +"/SDET_Advanced_AssignmentsBDD"
                 }
                         
-                dir('{workspace}') {
+                dir('${workspace}') {
                  bat "mvn -D clean test"
                 }
    
