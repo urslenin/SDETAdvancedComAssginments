@@ -6,7 +6,7 @@ pipeline {
         
         stage('TestNG Execution') {
             steps {
-                 dir("${env.WORKSPACE}/SDET_Advanced_AssginmentsTestNG"){
+                 dir("${env.WORKSPACE}/SDET_Advanced_AssignmentsTestNG"){
                  bat "mvn -D clean test"
                 }
               } 
