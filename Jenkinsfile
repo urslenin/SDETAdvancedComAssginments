@@ -5,7 +5,7 @@ pipeline {
         stage('Test') {
             steps {
  
-                // To run Maven on a Windows agent, use
+                dir('/var/jenkins_home/workspace/SDETAdvancedComAssginments/SDET_Advanced_AssginmentsTestNG') 
                 bat "mvn -D clean test"
             }
  
