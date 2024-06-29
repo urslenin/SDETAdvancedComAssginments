@@ -4,8 +4,8 @@ pipeline {
      stages {
         stage('Test') {
             steps {
-                def reportPath = "${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"
-                dir('reportPath') {
+               echo ${WORKSPACE}/SDET_Advanced_AssignmentsBDD/
+                dir('"${WORKSPACE}/SDET_Advanced_AssignmentsBDD/"') {
                      bat "mvn -D clean test"
                 }
                
