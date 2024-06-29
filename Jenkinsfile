@@ -7,9 +7,9 @@ pipeline {
             steps {
                 script{
                     workspace = "${WORKSPACE}/SDET_Advanced_AssignmentsBDD"
-                    ehco "workspace"
+                    
                 }
-                        
+                 ehco "{workspace}"       
                 dir('${workspace}') {
                  bat "mvn -D clean test"
                 }
