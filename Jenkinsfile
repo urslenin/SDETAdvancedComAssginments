@@ -4,10 +4,9 @@ pipeline {
      stages {
         stage('Test') {
             steps {
-                sh "pwd"
-                dir('SDET_Advanced_AssignmentsBDD') {
-                sh "pwd"
-                bat "mvn -D clean test"
+                        
+                dir('${env.WORKSPACE}\SDET_Advanced_AssignmentsBDD') {
+                 bat "mvn -D clean test"
                 }
    
             } 
