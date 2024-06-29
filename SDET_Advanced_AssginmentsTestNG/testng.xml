@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testsuite" verbose="1" >
+   
+    <test name ="AjaxLoaderTest" parallel="classes" thread-count="2">
+        <parameter name="user" value="admin" />
+        <parameter name="pwd" value="admin" />
+                <classes>
+            <class name = "regression.AjaxLoaderTest" > </class>
+
+        </classes>
+
+    </test>
+</suite>

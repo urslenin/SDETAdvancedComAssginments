@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_31_175.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_31_175.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_57_38_808.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_57_38_808.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_57_53_339.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_57_53_339.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_56_226.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_56_226.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_05_071.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_05_071.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_12_662.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_12_662.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_58_27_204.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_58_27_204.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_30_017.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_30_017.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_38_232.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_38_232.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_45_636.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_45_636.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_00_006.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_00_006.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_02_748.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_02_748.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_09_985.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_09_985.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_17_629.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_17_629.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_32_411.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_32_411.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_34_972.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_34_972.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_41_433.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_41_433.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_48_917.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_48_917.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_03_641.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_03_641.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_06_213.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_06_213.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_12_637.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_12_637.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_20_013.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_20_013.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_34_592.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_34_592.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_37_215.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_37_215.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_44_854.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_44_854.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_52_284.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_52_284.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_06_934.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_06_934.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_09_510.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_09_510.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_16_556.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_16_556.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_23_987.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_23_987.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_38_691.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_38_691.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_42_022.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_42_022.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_50_112.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_50_112.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_57_777.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_57_777.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_12_391.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_12_391.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_15_006.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_15_006.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_21_795.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_21_795.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_02_29_320.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_02_29_320.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_44_017.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_44_017.png' ;height='100' width='100'/a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_46_551.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_46_551.png' ;height='100' width='100'/a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-29T06:27:20Z" name="testsuite" finished-at="2024-06-29T06:32:47Z" duration-ms="327181">
+    <groups>
+    </groups>
+    <test started-at="2024-06-29T06:27:20Z" name="AjaxLoaderTest" finished-at="2024-06-29T06:32:47Z" duration-ms="327181">
+      <class name="regression.AjaxLoaderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:57:20Z" name="setUp" finished-at="2024-06-29T11:57:20Z" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:57:20Z" name="beforeTest" finished-at="2024-06-29T11:57:20Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:57:20Z" name="beforeMethod" finished-at="2024-06-29T11:57:26Z" duration-ms="5995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:57:26Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T11:57:56Z" duration-ms="30149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_31_175.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_31_175.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_57_38_808.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_57_38_808.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_57_53_339.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_57_53_339.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_56_226.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_57_56_226.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:57:56Z" name="afterMethod" finished-at="2024-06-29T11:57:57Z" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:57:57Z" name="beforeMethod" finished-at="2024-06-29T11:58:00Z" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:58:00Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T11:58:30Z" duration-ms="29336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_05_071.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_05_071.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_12_662.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_12_662.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_58_27_204.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_58_27_204.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_30_017.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_30_017.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:58:30Z" name="afterMethod" finished-at="2024-06-29T11:58:32Z" duration-ms="2114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:58:32Z" name="beforeMethod" finished-at="2024-06-29T11:58:34Z" duration-ms="1990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:58:34Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T11:59:02Z" duration-ms="28610" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_38_232.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_58_38_232.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_45_636.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_58_45_636.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_00_006.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_00_006.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_02_748.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_02_748.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:59:02Z" name="afterMethod" finished-at="2024-06-29T11:59:04Z" duration-ms="1444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:59:04Z" name="beforeMethod" finished-at="2024-06-29T11:59:06Z" duration-ms="1718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:59:06Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T11:59:35Z" duration-ms="29034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_09_985.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_09_985.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_17_629.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_17_629.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_32_411.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_11_59_32_411.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_34_972.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_34_972.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:59:35Z" name="afterMethod" finished-at="2024-06-29T11:59:35Z" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:59:35Z" name="beforeMethod" finished-at="2024-06-29T11:59:37Z" duration-ms="1676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T11:59:37Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T12:00:06Z" duration-ms="28840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_41_433.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_11_59_41_433.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_48_917.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_11_59_48_917.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_03_641.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_03_641.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_06_213.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_06_213.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:00:06Z" name="afterMethod" finished-at="2024-06-29T12:00:06Z" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:00:06Z" name="beforeMethod" finished-at="2024-06-29T12:00:08Z" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:00:08Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T12:00:37Z" duration-ms="28974" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_12_637.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_12_637.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_20_013.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_20_013.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_34_592.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_00_34_592.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_37_215.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_37_215.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:00:37Z" name="afterMethod" finished-at="2024-06-29T12:00:38Z" duration-ms="1153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:00:38Z" name="beforeMethod" finished-at="2024-06-29T12:00:40Z" duration-ms="1704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:00:40Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T12:01:09Z" duration-ms="29389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_44_854.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_00_44_854.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_52_284.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_00_52_284.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_06_934.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_06_934.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_09_510.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_09_510.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:01:09Z" name="afterMethod" finished-at="2024-06-29T12:01:10Z" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:01:10Z" name="beforeMethod" finished-at="2024-06-29T12:01:12Z" duration-ms="1451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:01:12Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T12:01:42Z" duration-ms="30088" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_16_556.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_16_556.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_23_987.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_23_987.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_38_691.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_01_38_691.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_42_022.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_42_022.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:01:42Z" name="afterMethod" finished-at="2024-06-29T12:01:42Z" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:01:42Z" name="beforeMethod" finished-at="2024-06-29T12:01:45Z" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:01:45Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T12:02:15Z" duration-ms="29233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_50_112.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_01_50_112.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_57_777.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_01_57_777.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_12_391.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_12_391.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_15_006.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_15_006.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:02:15Z" name="afterMethod" finished-at="2024-06-29T12:02:15Z" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:02:15Z" name="beforeMethod" finished-at="2024-06-29T12:02:17Z" duration-ms="1737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAjaxLoadedComponent(java.lang.String)[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:02:17Z" name="verifyAjaxLoadedComponent" data-provider="testData" finished-at="2024-06-29T12:02:46Z" duration-ms="29121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Run10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_21_795.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_21_795.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_02_29_320.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\ClickMe Element 29_06_24_12_02_29_320.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_44_017.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\Alert Model Popup Element 29_06_24_12_02_44_017.png' ;height='100' width='100'/a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_46_551.png'><img src='D:\Auto\SDET_Advanced_AssignmentsTestNG\test-output\reports\archive\2024-Jun-29\2024-06-29_11_57_20\ScreenShots\AjaxLoader Element 29_06_24_12_02_46_551.png' ;height='100' width='100'/a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAjaxLoadedComponent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:02:46Z" name="afterMethod" finished-at="2024-06-29T12:02:47Z" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:regression.AjaxLoaderTest@78ffe6dc]" started-at="2024-06-29T12:02:47Z" name="afterTest" finished-at="2024-06-29T12:02:47Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- regression.AjaxLoaderTest -->
+    </test> <!-- AjaxLoaderTest -->
+  </suite> <!-- testsuite -->
+</testng-results>
