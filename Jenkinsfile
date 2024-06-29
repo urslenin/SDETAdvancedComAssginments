@@ -4,7 +4,7 @@ pipeline {
         stage('Test') {
             steps {
  
-                dir('${WORKSPACE}/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/') {
+                dir(${WORKSPACE}'/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/') {
                      bat "mvn -D clean test"
                 }
                
