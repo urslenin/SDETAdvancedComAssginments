@@ -1,6 +1,6 @@
 pipeline {
     agent any
-     def reportPath = "${WORKSPACE}/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/
+     def reportPath = "${WORKSPACE}/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/"
     stages {
         stage('Test') {
             steps {
