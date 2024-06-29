@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testsuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="classes" name="login(failed)" verbose="0">
+    <parameter name="username_valid" value="standard_user"/>
+    <parameter name="username_invalid" value="standard_user_invalid"/>
+    <parameter name="password_valid" value="secret_sauce"/>
+    <parameter name="password_invalid" value="secret_sauce_invalid"/>
+    <classes>
+      <class name="runner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- runner.TestRunner -->
+    </classes>
+  </test> <!-- login(failed) -->
+</suite> <!-- Failed suite [testsuite] -->

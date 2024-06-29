@@ -1,0 +1,4 @@
+utils\Log.class
+stepDefinition\BaseClass.class
+utils\ConfigFileReader.class
+stepDefinition\Hooks.class

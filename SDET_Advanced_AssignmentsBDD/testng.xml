@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testsuite" verbose="1" >
+
+    <test name ="login" parallel="classes" thread-count="2">
+        <parameter name="username_valid" value="standard_user" />
+
+        <classes>
+            <class name = "runner.TestRunner" > </class>
+
+        </classes>
+
+    </test>
+</suite>
