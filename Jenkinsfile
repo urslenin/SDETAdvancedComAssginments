@@ -1,11 +1,11 @@
 pipeline {
     agent any
- 
+     def reportPath = "${WORKSPACE}/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured/
     stages {
         stage('Test') {
             steps {
  
-                dir('C:Users/meera/.jenkins/workspace/SDETAdvancedComAssginments/SDET_Advanced_AssignmentsRestAssured') {
+                dir(reportPath) {
                      bat "mvn -D clean test"
                 }
                
