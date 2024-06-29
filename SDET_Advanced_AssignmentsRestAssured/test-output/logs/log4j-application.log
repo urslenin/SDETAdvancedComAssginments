@@ -322,4 +322,31 @@ API Tester
  2024-06-29 11:54:22,045  INFO [pool-2-thread-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T06:24:21.866Zas expected
  2024-06-29 11:54:22,045  INFO [pool-2-thread-1] UserUpdate:62 - Update User Details Completed
  2024-06-29 11:54:22,047  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 14:17:30,357  INFO [pool-2-thread-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 14:17:34,624  INFO [pool-2-thread-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 14:17:34,624  INFO [pool-2-thread-1] UserUpdate:31 - User Exist
+ 2024-06-29 14:17:36,765  INFO [pool-2-thread-1] UserUpdate:39 - 2
+janet.weaver@reqres.in
+Janet
+Janet
+
+ 2024-06-29 14:17:36,771  INFO [pool-2-thread-1] CommonFunctions:55 - IDas expected
+ 2024-06-29 14:17:36,771  INFO [pool-2-thread-1] CommonFunctions:63 - Emailas expected
+ 2024-06-29 14:17:36,773  INFO [pool-2-thread-1] CommonFunctions:63 - FirstNameas expected
+ 2024-06-29 14:17:36,773  INFO [pool-2-thread-1] CommonFunctions:63 - LastNameas expected
+ 2024-06-29 14:17:36,777  INFO [pool-2-thread-1] UserUpdate:44 - Get User Details Completed
+ 2024-06-29 14:17:36,780  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
+ 2024-06-29 14:17:36,918  INFO [pool-2-thread-1] BaseClass:14 -  Test Started Starting 
+ 2024-06-29 14:17:36,960  INFO [pool-2-thread-1] BaseClass:10 - Log4j initiated
+ 2024-06-29 14:17:37,535  INFO [pool-2-thread-1] CommonFunctions:79 - Response Code as expected200
+ 2024-06-29 14:17:37,538  INFO [pool-2-thread-1] UserUpdate:31 - User Exist
+ 2024-06-29 14:17:37,675  INFO [pool-2-thread-1] UserUpdate:57 - API Demo
+API Tester
+2024-06-29T08:47:37.435Z
+
+ 2024-06-29 14:17:37,686  INFO [pool-2-thread-1] CommonFunctions:63 - Nameas expected
+ 2024-06-29 14:17:37,692  INFO [pool-2-thread-1] CommonFunctions:63 - Jobas expected
+ 2024-06-29 14:17:37,692  INFO [pool-2-thread-1] CommonFunctions:71 - UpdatedAtvalue: 2024-06-29T08:47:37.435Zas expected
+ 2024-06-29 14:17:37,700  INFO [pool-2-thread-1] UserUpdate:62 - Update User Details Completed
+ 2024-06-29 14:17:37,707  INFO [pool-2-thread-1] BaseClass:18 -  Test Ended 
  
