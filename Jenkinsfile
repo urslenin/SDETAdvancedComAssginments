@@ -3,12 +3,9 @@ pipeline {
 
      stages {
         stage('Test') {
-            steps {script{
-                sh 'pwd > workspace'
-                workspace = readFile('workspace').trim()
-            
-                dir('workspace') {
-                    bat "mvn -D clean test"
+            steps {
+                sh 'cd SDET_Advanced_AssignmentsRestAssured'
+                bat "mvn -D clean test"
                 }
             }
 
